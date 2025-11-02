@@ -1,1 +1,1 @@
- IT Systems Administration & Azure Cloud Engineering 
+ IT Systems Administration
